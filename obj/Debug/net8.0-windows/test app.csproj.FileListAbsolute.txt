@@ -1,0 +1,135 @@
+D:\sources\test app\bin\Debug\net8.0-windows\test app.exe
+D:\sources\test app\bin\Debug\net8.0-windows\test app.deps.json
+D:\sources\test app\bin\Debug\net8.0-windows\test app.runtimeconfig.json
+D:\sources\test app\bin\Debug\net8.0-windows\test app.dll
+D:\sources\test app\bin\Debug\net8.0-windows\test app.pdb
+D:\sources\test app\obj\Debug\net8.0-windows\test_app.fLogin.resources
+D:\sources\test app\obj\Debug\net8.0-windows\test app.csproj.GenerateResource.cache
+D:\sources\test app\obj\Debug\net8.0-windows\test app.GeneratedMSBuildEditorConfig.editorconfig
+D:\sources\test app\obj\Debug\net8.0-windows\test app.AssemblyInfoInputs.cache
+D:\sources\test app\obj\Debug\net8.0-windows\test app.AssemblyInfo.cs
+D:\sources\test app\obj\Debug\net8.0-windows\test app.csproj.CoreCompileInputs.cache
+D:\sources\test app\obj\Debug\net8.0-windows\test app.dll
+D:\sources\test app\obj\Debug\net8.0-windows\refint\test app.dll
+D:\sources\test app\obj\Debug\net8.0-windows\test app.pdb
+D:\sources\test app\obj\Debug\net8.0-windows\test app.genruntimeconfig.cache
+D:\sources\test app\obj\Debug\net8.0-windows\ref\test app.dll
+D:\sources\test app\obj\Debug\net8.0-windows\test_app.fteacher.resources
+D:\sources\test app\obj\Debug\net8.0-windows\test_app.fAdmin.resources
+D:\sources\test app\obj\Debug\net8.0-windows\test_app.fStudent.resources
+D:\sources\test app\obj\Debug\net8.0-windows\test_app.fRecoverPassWord.resources
+D:\sources\test app\obj\Debug\net8.0-windows\test app.csproj.AssemblyReference.cache
+D:\sources\test app\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\sources\test app\obj\Debug\net8.0-windows\test app.csproj.Up2Date
+D:\sources\test app\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Humanizer.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\sources\test app\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\sources\test app\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\sources\test app\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\sources\test app\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\sources\test app\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\sources\test app\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\sources\test app\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\sources\test app\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\sources\test app\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\sources\test app\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\sources\test app\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sources\test app\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\sources\test app\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\sources\test app\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sources\test app\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sources\test app\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sources\test app\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sources\test app\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\sources\test app\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\sources\test app\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\sources\test app\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\sources\test app\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\sources\test app\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\sources\test app\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
